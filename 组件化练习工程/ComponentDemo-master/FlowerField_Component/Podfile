@@ -1,0 +1,24 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/MRGBB/specs.git'
+use_frameworks!
+platform :ios, '8.0' 
+target ‘FlowerField’ do 
+
+#pod 'MBProgressHUD'
+#pod 'AFNetworking'
+#pod 'FMDB'
+pod 'Masonry'
+pod 'YYWebImage'
+pod 'ReactiveCocoa', '~> 2.5'
+
+#pod 'GBZCategoryKit'
+#pod 'GBZApisKit'
+#pod 'GBZToolsKit'
+#pod 'GBZConfigKit'
+#pod 'GBZMainViewKit'
+#pod 'GBZReformerKeysKit'
+pod 'GBZSpecialKit'
+pod 'GBZAuthorKit'
+end
+
